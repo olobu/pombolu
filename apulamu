@@ -1262,6 +1262,8 @@ https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro2.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cf686dc4246f19bc4419c54da0f90bc:b40f599266c8a262ccf4a384dadce08a
+#KODIPROP:inputstream.adaptive.license_key=9d8b1b819cfdcff845625b86cc4968f3:480b03fe4476bc187c6a9d43ba85b9db
+#KODIPROP:inputstream.adaptive.license_key=6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 4
