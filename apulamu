@@ -919,14 +919,13 @@ https://testfunctionlive.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-A
 #EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="BSTV | Movies",My Family
 https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
  
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg" group-title="BSTV | Movies", Boo
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="BSTV | Movies" tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg",BOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
 
 #EXTINF:-1 group-title="BSTV | Movies" tvg-id="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
