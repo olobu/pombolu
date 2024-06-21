@@ -926,7 +926,7 @@ https://testfunctionlive.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 #EXTINF:-1 group-title="BSTV | Movies" tvg-id="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
